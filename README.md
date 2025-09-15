@@ -2,7 +2,7 @@
 
  Added light mode and dark mode switch in home page.
  
- In the sports tab you can see all the sports news which we are receiving from api.
+ In the sports tab you can see all the sports news which we are receiving from Api.
  
  I have added search option , you can search news on base of title of the news.
  
